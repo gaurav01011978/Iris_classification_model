@@ -129,7 +129,7 @@ accuracy                                 1.00        30
 
 ## Author
 
-**Himanshu Khanna** — khannahimanshu814@gmail.com
+**Gaurav Kumar - gk8131831@gmail.com**
 
 ## License
 
